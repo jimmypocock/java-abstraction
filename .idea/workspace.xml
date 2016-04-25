@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f64d0498-babf-403c-8e3e-66cbb054370e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Parrot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Penguin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/CanFly.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Bird.java" afterPath="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Bird.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Penguin.java" afterPath="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Penguin.java" />
     </list>
     <ignored path="Abstraction.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,16 +36,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="CanFly.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/CanFly.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Penguin.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Penguin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
               <folding>
                 <element signature="e#156#157#0" expanded="true" />
                 <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,15 +62,17 @@
       <file leaf-file-name="Bird.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Bird.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="330">
+              <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
               <folding>
-                <element signature="e#161#162#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,6 +131,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -137,9 +149,10 @@
         <option value="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Animal.java" />
         <option value="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Dog.java" />
         <option value="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Parrot.java" />
-        <option value="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Penguin.java" />
         <option value="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/CanFly.java" />
         <option value="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Bird.java" />
+        <option value="$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Penguin.java" />
       </list>
     </option>
   </component>
@@ -559,30 +572,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Penguin.java">
+    <entry file="file://$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/CanFly.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Bird.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="330">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
           <folding>
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/completeJavaDeveloperCourse/Penguin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
           </folding>
         </state>
       </provider>
